@@ -1,5 +1,3 @@
-# Social Links Profile Component
-
 ## Welcome ✌🏻
 
 ## Table of Contents
@@ -17,8 +15,6 @@
 - [Acknowledgments](#acknowledgments)
 - [Got Feedback for Me?](#got-feedback-for-me)
 
-## Overview
-
 ### The Challenge
 
 Present all your social media profiles in one place with the Social Links Profile Component. Engage your audience and boost your online presence with this sleek and interactive card.
@@ -31,13 +27,6 @@ Users should be able to:
 ### Screenshot
 
 ![Design Preview](./design/active-states.jpg)
-
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/Social-links-profile_frontend_project)
-- Live Site URL: [Live Site](https://social-profile-links-frontend.netlify.app/)
-
-## My Process
 
 ### Built With
 
@@ -75,19 +64,6 @@ This project is one of the simplest ones of all the projects I have done and the
 The continuously learning journey of a programmer never ends. This project made me realize that there are many concepts that I need to work upon including fundamentals like flex-box and its properties, to more complex concepts like working with fetch and async await in javascript. These areas are some that I think I need to work more upon in the upcoming future as they highlight some of the most significant regions of web development that are important for every developer to know of. 
 
 These key points mentioned here will help me grow accountable and consistent towards improving at writing good quality code and be a successful full stack developer one day.
-
-### Useful resources
-
-- [Harkirat Singh course notes](https://github.com/SartHak-0-Sach/harkirat-singh-course_code_and_notes) - I have added notes of all lectures along with code and lecture insights of all weeks along with bonus lectures to help you all as much as I can.
-- [My development code and notes](https://github.com/SartHak-0-Sach/cwh-web-dev-playlist_code_and_notes) - These are my notes that I made while working on my development skills in initial days and did these courses. Make sure to star the repository if you like it.✨💫
-- [MDN documentation hover state for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) - This is an amazing article which helped me finally understand hover states. I'd recommend it to anyone still learning this concept.
-
-## Author
-
-<b><strong>Sarthak Sachdev</strong></b>
-- Website - [Sarthak Sachdev](https://itsmesarthak.netlify.app/)
-- LeetCode - [@sarthak_sachdev](https://leetcode.com/u/sarthak_sachdev/)
-- Twitter - [@sarthak_sach69](https://www.twitter.com/sarthak_sach69)
 
 ## Acknowledgments
 
